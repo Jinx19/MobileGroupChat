@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+C:\Users\administ\Desktop\Github\MobileGroupChat\.metadata\.plugins\org.eclipse.jdt.core
+674849762.index
+2824228671.index
+154750032.index
+2346404955.index
+291632544.index
+493339043.index
+1210989321.index
